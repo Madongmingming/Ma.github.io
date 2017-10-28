@@ -1,37 +1,548 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Site made with Mobirise Website Builder v4.4.0, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.4.0, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo2.png" type="image/x-icon">
+  <meta name="description" content="">
+  <title>Home</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise-gallery/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+<section class="menu cid-qzjHLU6QJv" once="menu" id="menu1-e" data-rv-view="55">
 
-You can use the [editor on GitHub](https://github.com/Madongmingming/MOBIRISE_demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="https://mobirise.com">
+                         <img src="assets/images/logo2.png" alt="Mobirise" media-simple="true" style="height: 3.8rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap">
+                    <a class="navbar-caption text-white display-4" href="https://mobirise.com">
+                        MOBIRISE
+                    </a>
+                </span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="https://mobirise.com" target="_blank"><span class="mbri-shopping-bag mbr-iconfont mbr-iconfont-btn"></span>
+                        
+                        Services
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-white display-4" href="https://mobirise.com">
+                        <span class="mbri-search mbr-iconfont mbr-iconfont-btn"></span>
+                        About Us
+                    </a>
+                </li><li class="nav-item dropdown open"><a class="nav-link link text-white dropdown-toggle display-4" href="https://mobirise.com" data-toggle="dropdown-submenu" aria-expanded="true"><span class="mbri-mobile mbr-iconfont mbr-iconfont-btn"></span>
+                        Cool &nbsp;&nbsp;</a><div class="dropdown-menu"><a class="text-white dropdown-item display-4" href="https://mobirise.com" aria-expanded="true"></a><a class="text-white dropdown-item display-4" href="https://mobirise.com" aria-expanded="true"></a><a class="text-white dropdown-item display-4" href="https://mobirise.com" aria-expanded="false">New Item</a><a class="text-white dropdown-item display-4" href="https://mobirise.com" aria-expanded="true">New Item</a><a class="text-white dropdown-item display-4" href="https://mobirise.com" aria-expanded="true">New Item</a></div></li></ul>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-4" href="https://mobirise.com">
+                    <span class="mbri-save mbr-iconfont mbr-iconfont-btn "></span>
+                    Try It Now!
+                </a></div>
+        </div>
+    </nav>
+</section>
 
-### Markdown
+<section class="engine"><a href="https://mobirise.co/i">how to build a website for free</a></section><section class="header4 cid-qzjJ9JJAkS mbr-parallax-background" id="header4-h" data-rv-view="57">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    
 
-```markdown
-Syntax highlighted code block
+    
 
-# Header 1
-## Header 2
-### Header 3
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="media-content col-md-10">
+                <h1 class="mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style display-1">
+                    INTRO WITH IMAGE
+                </h1>
+                
+                <div class="mbr-text align-center mbr-white pb-3">
+                    <p class="mbr-text mbr-fonts-style display-5">
+                        Intro with background image, color overlay and a picture at the bottom. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.
+                    </p>
+                </div>
+                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-primary display-4" href="https://mobirise.com">LEARN MORE</a>
+                    <a class="btn btn-md btn-white-outline display-4" href="https://mobirise.com">LIVE DEMO</a></div>
+            </div>
+            <div class="mbr-figure pt-5">
+                <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true" style="width: 60%;">
+            </div>
+        </div>
+    </div>
+</section>
 
-- Bulleted
-- List
+<section class="features3 cid-qzjPa1mzYf mbr-parallax-background" id="features3-j" data-rv-view="60">
 
-1. Numbered
-2. List
+    
 
-**Bold** and _Italic_ and `Code` text
+    <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(91, 104, 107);">
+    </div>
+    <div class="container">
+        <div class="media-container-row">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/01.jpg" alt="Mobirise" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            No Coding
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center">
+                        <a href="https://mobirise.com" class="btn btn-primary display-4">
+                            Learn More
+                        </a>
+                    </div>
+                </div>
+            </div>
 
-[Link](url) and ![Image](src)
-```
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/02.jpg" alt="Mobirise" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            Mobile Friendly
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center">
+                        <a href="https://mobirise.com" class="btn btn-primary display-4">
+                            Learn More
+                        </a>
+                    </div>
+                </div>
+            </div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/03.jpg" alt="Mobirise" media-simple="true">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-7">
+                            Unique Styles
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.
+                        </p>
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.com" class="btn btn-primary display-4">
+                            Learn More
+                        </a></div>
+                </div>
+            </div>
 
-### Jekyll Themes
+            
+        </div>
+    </div>
+</section>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Madongmingming/MOBIRISE_demo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<section class="mbr-gallery mbr-slider-carousel cid-qzk6r9ZyFl" id="gallery1-u" data-rv-view="63">
 
-### Support or Contact
+    
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <div class="container">
+        <div><!-- Filter --><!-- Gallery --><div class="mbr-gallery-row"><div class="mbr-gallery-layout-default"><div><div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery1-u" data-slide-to="0" data-toggle="modal"><img src="assets/images/gallery00.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Responsive"><div href="#lb-gallery1-u" data-slide-to="1" data-toggle="modal"><img src="assets/images/gallery01.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Creative"><div href="#lb-gallery1-u" data-slide-to="2" data-toggle="modal"><img src="assets/images/gallery02.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Animated"><div href="#lb-gallery1-u" data-slide-to="3" data-toggle="modal"><img src="assets/images/gallery03.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery1-u" data-slide-to="4" data-toggle="modal"><img src="assets/images/gallery04.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery1-u" data-slide-to="5" data-toggle="modal"><img src="assets/images/gallery05.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Responsive"><div href="#lb-gallery1-u" data-slide-to="6" data-toggle="modal"><img src="assets/images/gallery06.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Animated"><div href="#lb-gallery1-u" data-slide-to="7" data-toggle="modal"><img src="assets/images/gallery07.jpg" alt=""><span class="icon-focus"></span><span class="mbr-gallery-title mbr-fonts-style display-7">Type caption here</span></div></div></div></div><div class="clearfix"></div></div></div><!-- Lightbox --><div data-app-prevent-settings="" class="mbr-slider modal fade carousel slide" tabindex="-1" data-keyboard="true" data-interval="false" id="lb-gallery1-u"><div class="modal-dialog"><div class="modal-content"><div class="modal-body"><div class="carousel-inner"><div class="carousel-item active"><img src="assets/images/gallery00.jpg" alt=""></div><div class="carousel-item"><img src="assets/images/gallery01.jpg" alt=""></div><div class="carousel-item"><img src="assets/images/gallery02.jpg" alt=""></div><div class="carousel-item"><img src="assets/images/gallery03.jpg" alt=""></div><div class="carousel-item"><img src="assets/images/gallery04.jpg" alt=""></div><div class="carousel-item"><img src="assets/images/gallery05.jpg" alt=""></div><div class="carousel-item"><img src="assets/images/gallery06.jpg" alt=""></div><div class="carousel-item"><img src="assets/images/gallery07.jpg" alt=""></div></div><a class="carousel-control carousel-control-prev" role="button" data-slide="prev" href="#lb-gallery1-u"><span class="mbri-left mbr-iconfont" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="carousel-control carousel-control-next" role="button" data-slide="next" href="#lb-gallery1-u"><span class="mbri-right mbr-iconfont" aria-hidden="true"></span><span class="sr-only">Next</span></a><a class="close" href="#" role="button" data-dismiss="modal"><span class="sr-only">Close</span></a></div></div></div></div></div>
+    </div>
+
+</section>
+
+<section class="progress-bars2 cid-qzk5rSIo9V" id="progress-bars2-o" data-rv-view="98">
+    
+     
+
+    
+
+    <div class="container">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
+            Horizontal progress bars with text block
+        </h2>
+
+        <h3 class="mbr-section-subtitle mbr-fonts-style display-5">
+            Click blue "Gear" icon in the top right corner to hide/show progress bars and change them color and value. Click any text to edit or style it.
+        </h3>
+
+        <div class="row pt-5 mt-5">
+            <div class="col-md-6 text-elements">
+                <h4 class="section-content-title pb-3 align-left mbr-fonts-style display-5">
+                    A modular approach  
+                </h4>
+                <p class="section-content-text align-left mbr-fonts-style display-7">
+                    Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.
+                </p>
+            </div>
+            <div class="progress_elements col-md-6">
+                <div class="progress1 pb-5">
+                    <div class="title-wrap">
+                        <div class="progressbar-title mbr-fonts-style display-7">
+                            <p>
+                                Amenity
+                            </p>
+                        </div>
+                        <div class="progress_value mbr-fonts-style display-7">
+                            <div class="progressbar-number">
+                            </div>
+                            <span>%</span>
+                        </div>
+                    </div>
+                    <progress class="progress progress-primary " max="100" value="78">
+                    </progress>
+                </div>
+                 
+                <div class="progress2 pb-5">
+                    <div class="title-wrap">
+                        <div class="progressbar-title mbr-fonts-style display-7">
+                            <p>
+                                Public transport
+                            </p>
+                        </div>
+                    <div class="progress_value mbr-fonts-style display-7">
+                        <div class="progressbar-number">
+                        </div>
+                        <span>%</span>
+                    </div>
+                    </div>
+                    <progress class="progress progress-primary" max="100" value="61">
+                    </progress>
+                </div>
+                
+                <div class="progress3 pb-5">
+                    <div class="title-wrap">
+                        <div class="progressbar-title mbr-fonts-style display-7">
+                            <p>
+                                Nightlife
+                            </p>
+                        </div>
+                    <div class="progress_value mbr-fonts-style display-7">
+                        <div class="progressbar-number">
+                        </div>
+                        <span>%</span>
+                    </div>
+                    </div>
+                    <progress class="progress progress-primary" max="100" value="80">
+                    </progress>
+                </div>
+                
+                
+            
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="timeline1 cid-qzk5HEKxue" id="timeline1-p" data-rv-view="101">
+
+    
+
+    
+
+    <div class="container align-center">
+        <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">
+            Timeline
+        </h2>
+        <h3 class="mbr-section-subtitle pb-5 mbr-fonts-style display-5">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit
+        </h3>
+
+        <div class="container timelines-container" mbri-timelines="">
+            <div class="row timeline-element reverse separline">      
+                 <div class="timeline-date-panel col-xs-12 col-md-6  align-left">         
+                    <div class="time-line-date-content">
+                        <p class="mbr-timeline-date mbr-fonts-style display-5">
+                            1 january 2018  
+                        </p>
+                    </div>
+                </div>
+           <span class="iconBackground"></span>
+            <div class="col-xs-12 col-md-6 align-right">
+                <div class="timeline-text-content">
+                    <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
+                        Multi Homepages
+                    </h4>
+                    <p class="mbr-timeline-text mbr-fonts-style display-7">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.
+                    </p>
+                 </div>
+            </div>
+            </div>
+
+            <div class="row timeline-element  separline">
+                <div class="timeline-date-panel col-xs-12 col-md-6 align-right">
+                    <div class="time-line-date-content">
+                        <p class="mbr-timeline-date mbr-fonts-style display-5">
+                            2 february 2019  
+                        </p>
+                    </div>
+                </div>
+                <span class="iconBackground"></span>
+                <div class="col-xs-12 col-md-6 align-left ">
+                    <div class="timeline-text-content">
+                        <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
+                            Responsive Design
+                        </h4>
+                        <p class="mbr-timeline-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.
+                        </p>
+                    </div>
+                </div>
+            </div> 
+
+
+            <div class="row timeline-element reverse">
+                <div class="timeline-date-panel col-xs-12 col-md-6  align-left">
+                    <div class="time-line-date-content">
+                        <p class="mbr-timeline-date mbr-fonts-style display-5">
+                            3 march 2020
+                        </p>
+                    </div>
+                </div>
+                <span class="iconBackground"></span>
+                <div class="col-xs-12 col-md-6 align-right">
+                    <div class="timeline-text-content">
+                        <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
+                            Smart Watch
+                        </h4>      
+                        <p class="mbr-timeline-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            
+
+
+            
+
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section form1 cid-qzk6dbpMLF" id="form1-t" data-rv-view="104">
+
+    
+
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="title col-12 col-lg-8">
+                <h2 class="mbr-section-title align-center pb-3 mbr-fonts-style display-2">
+                    CONTACT FORM
+                </h2>
+                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-5">
+                    Easily add subscribe and contact forms without any server-side integration.
+                </h3>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="media-container-column col-lg-8" data-form-type="formoid">
+                    <div data-form-alert="" hidden="">
+                        Thanks for filling out the form!
+                    </div>
+            
+                    <form class="mbr-form" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form"><input type="hidden" data-form-email="true" value="dLFN+gGoGLaZ6YHuuu2ATokoApLj9igJfsljOZXE/7xkCvcUXJZJHuQAzVSEPQa89Iifel0k6pemblmpzt8dhCFMUr7lO2QLYObTojxY8Dp1MtV4XhTJCwD4+B/DW8ca">
+                        <div class="row row-sm-offset">
+                            <div class="col-md-4 multi-horizontal" data-for="name">
+                                <div class="form-group">
+                                    <label class="form-control-label mbr-fonts-style display-7" for="name-form1-t">Name</label>
+                                    <input type="text" class="form-control" name="name" data-form-field="Name" required="" id="name-form1-t">
+                                </div>
+                            </div>
+                            <div class="col-md-4 multi-horizontal" data-for="email">
+                                <div class="form-group">
+                                    <label class="form-control-label mbr-fonts-style display-7" for="email-form1-t">Email</label>
+                                    <input type="email" class="form-control" name="email" data-form-field="Email" required="" id="email-form1-t">
+                                </div>
+                            </div>
+                            <div class="col-md-4 multi-horizontal" data-for="phone">
+                                <div class="form-group">
+                                    <label class="form-control-label mbr-fonts-style display-7" for="phone-form1-t">Phone</label>
+                                    <input type="tel" class="form-control" name="phone" data-form-field="Phone" id="phone-form1-t">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group" data-for="message">
+                            <label class="form-control-label mbr-fonts-style display-7" for="message-form1-t">Message</label>
+                            <textarea type="text" class="form-control" name="message" rows="7" data-form-field="Message" id="message-form1-t"></textarea>
+                        </div>
+            
+                        <span class="input-group-btn"><button href="" type="submit" class="btn btn-primary btn-form display-4">SEND FORM</button></span>
+                    </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="cid-qzjHLWmSbm" id="footer1-g" data-rv-view="107">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="https://mobirise.com/">
+                        <img src="assets/images/logo2.png" alt="Mobirise" media-simple="true">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Address
+                </h5>
+                <p class="mbr-text">
+                    1234 Street Name
+                    <br>City, AA 99999
+                </p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contacts
+                </h5>
+                <p class="mbr-text">
+                    Email: support@mobirise.com
+                    <br>Phone: +1 (0) 000 0000 001
+                    <br>Fax: +1 (0) 000 0000 002
+                </p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Links
+                </h5>
+                <p class="mbr-text">
+                    <a class="text-primary" href="https://mobirise.com/">Website builder</a>
+                    <br><a class="text-primary" href="https://mobirise.com/mobirise-free-win.zip">Download for Windows</a>
+                    <br><a class="text-primary" href="https://mobirise.com/mobirise-free-mac.zip">Download for Mac</a>
+                </p>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2017 Mobirise - All Rights Reserved
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://twitter.com/mobirise" target="_blank">
+                                <span class="socicon-twitter socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/pages/Mobirise/1616226671953247" target="_blank">
+                                <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.youtube.com/c/mobirise" target="_blank">
+                                <span class="socicon-youtube socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://instagram.com/mobirise" target="_blank">
+                                <span class="socicon-instagram socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://plus.google.com/u/0/+Mobirise" target="_blank">
+                                <span class="socicon-googleplus socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.behance.net/Mobirise" target="_blank">
+                                <span class="socicon-behance socicon mbr-iconfont mbr-iconfont-social" media-simple="true"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touch-swipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/masonry/masonry.pkgd.min.js"></script>
+  <script src="assets/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/bootstrap-carousel-swipe/bootstrap-carousel-swipe.js"></script>
+  <script src="assets/jquery-mb-vimeo_player/jquery.mb.vimeo_player.js"></script>
+  <script src="assets/jarallax/jarallax.min.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  <script src="assets/mobirise-gallery/player.min.js"></script>
+  <script src="assets/mobirise-gallery/script.js"></script>
+  <script src="assets/mobirise-slider-video/script.js"></script>
+  <script src="assets/formoid/formoid.min.js"></script>
+  
+  
+</body>
+</html>
